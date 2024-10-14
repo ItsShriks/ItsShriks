@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsShriks
 - 👀 I’m interested in Robotics, Automation and Technology User Experience
 - 🌱 I’m currently learning Robot Vision and Machine Learning
-- 💞️ I’m looking to collaborate on ML and AI Models
+- 💞️ I’m looking to collaborate on Robotics Repositories and AI Models
 - 📫 How to reach me nakhyeshrikar@icloud.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: ...
