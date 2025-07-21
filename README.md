@@ -30,10 +30,11 @@ Frameworks:  ROS, PyTorch, OpenCV, Open3D, PointNet
 Tools:       Docker, Git, Conda, Jupyter, CloudCompare, QGIS  
 Platforms:   Ubuntu, macOS, Jetson Nano, Raspberry Pi  
 ```
+---
 📫 Let’s Connect
 - 📧 Email: [nakhyeshrikar@icloud.com](mailto:nakhyeshrikar@icloud.com)  
-- 💼 LinkedIn: [Shrikar Nakhye](https://www.linkedin.com/in/shrikar-nakhye-053262188/)
-
+- 💼 LinkedIn: [Shrikar Nakhye](https://www.linkedin.com/in/shrikar-n-053262188/)
+---
 😄 Fun Facts
 -	🧠 Learning German 🇩🇪 (currently at B1 level)
 -	🧭 Travel addict with a curious mind for how tech meets life
