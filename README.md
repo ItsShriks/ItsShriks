@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @ItsShriks
-- 👀 I’m interested in Robotics, Automation and Technology User Experience
-- 🌱 I’m currently learning Robot Vision and Machine Learning
-- 💞️ I’m looking to collaborate on Robotics Repositories and AI Models
-- 📫 How to reach me nakhyeshrikar@icloud.com
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Shrikar Nakhye (@ItsShriks)
 
-<!---
-ItsShriks/ItsShriks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Robotics Engineer | MSc Autonomous Systems @ Hochschule Bonn-Rhein-Sieg  
+🤖 Passionate about Robotics, Machine Learning, and Human-Tech Interaction  
+🌍 From Dombivli, India | Based in Bonn, Germany
+
+---
+
+### 🔧 What I Do
+- 🛠️ Build intelligent robotic systems for real-world problems  
+- 📡 Work on 3D LiDAR point cloud segmentation and robot vision  
+- 🌱 Currently exploring deep learning for perception and autonomous navigation  
+- 💡 Aspiring to create robots that help farmers and support the elderly  
+
+---
+
+### 📂 Featured Projects
+- 🌲 **LiDAR Forest Segmentation**: PointNet/PointNet++ based stump and terrain detection  
+- 🐝 **Swarm Robotics Simulation**: Adaptive aggregation inspired by natural behaviors  
+- 🤖 **Robot@Home Tasks**: RoboCup competition participant (Spring 2025)
+
+> Want to collaborate on vision-based robotics or ROS-based autonomous systems? Let’s connect!
+
+---
+
+### 🛠 Tech Stack
+```yaml
+Languages:   Python, C++, Bash  
+Frameworks:  ROS, PyTorch, OpenCV, Open3D, PointNet  
+Tools:       Docker, Git, Conda, Jupyter, CloudCompare, QGIS  
+Platforms:   Ubuntu, macOS, Jetson Nano, Raspberry Pi  
+```
+📫 Let’s Connect
+-	📧 Email: nakhyeshrikar@icloud.com
+-	💼 LinkedIn: Shrikar Nakhye
+
+😄 Fun Facts
+-	🧠 Learning German 🇩🇪 (currently at B1 level)
+-	🧭 Travel addict with a curious mind for how tech meets life
+
+✨ “Bringing robotics out of the lab and into everyday life.”
+---
