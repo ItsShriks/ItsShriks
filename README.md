@@ -15,12 +15,10 @@
 ---
 
 ### 📂 Featured Projects
-- 🌲 **LiDAR Forest Segmentation**: PointNet/PointNet++ based stump and terrain detection  
-- 🐝 **Swarm Robotics Simulation**: Adaptive aggregation inspired by natural behaviors  
-- 🤖 **Robot@Home Tasks**: RoboCup competition participant (Spring 2025)
-
-> Want to collaborate on vision-based robotics or ROS-based autonomous systems? Let’s connect!
-
+- 🌲 [**LiDAR Forest Segmentation**](https://github.com/ItsShriks/RnD.git): PointNet/PointNet++ based stump and terrain detection  
+- 🤖 [RoboCompanion](https://github.com/ItsShriks/RoboCompanion.git): A Human Service Robot with a Person Follow Feature
+- 🦾 [UR5 Simulation](https://github.com/ItsShriks/ur5_simulation.git): UR5 Simulation on Gazebo with Joint and Linear Trajectory 
+<!-- - 📜 [Padh_Lo](https://github.com/ItsShriks/Padh_Lo.git): Latin Character Recognition -->
 ---
 
 ### 🛠 Tech Stack
