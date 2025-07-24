@@ -37,5 +37,5 @@ Platforms:   Ubuntu, macOS, Jetson Nano, Raspberry Pi
 -	🧠 Learning German 🇩🇪 (currently at B1 level)
 -	🧭 Travel addict with a curious mind for how tech meets life
 
-✨ “Bringing robotics out of the lab and into everyday life.”
+✨ “Lazy by nature, but inspired by innovation — creating robots that help everyone work smarter and live better.”
 ---
